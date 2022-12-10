@@ -11,7 +11,8 @@
         "laravel/framework": "^9.19",
         "laravel/nova": "~4.0",
         "laravel/sanctum": "^3.0",
-        "laravel/tinker": "^2.7"
+        "laravel/tinker": "^2.7",
+        "tightenco/ziggy": "^1.5"
     },
     "repositories": [
         {
